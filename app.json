@@ -16,13 +16,13 @@
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number with country code (e.g. 263xxx for Zimbabwe)",
-      "value": "",
+      "description": "263789085533",
+      "value": "true",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Bot owner's name",
-      "value": "Iconic Developer",
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌",
       "required": true
     },
     "STICKER_AUTHOR_NAME": {
